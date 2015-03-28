@@ -1,8 +1,8 @@
 image: "hero.jpg"
-title: "WearableDataHack <typeout> 2015"
+title: "Munich <typeout> 2015"
 eventDate: "June 19-21, 2015"
-typeoutTextValues: '"",'
-typeoutFallback: "Munich"
+typeoutTextValues: '"", "Wearable", "Data", "Hackathon", "WearableDataHack"'
+typeoutFallback: "WearableDataHack"
 buttons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}

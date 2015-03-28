@@ -1,19 +1,19 @@
-languagesTitle: "Languages"
+# languagesTitle: "Languages"
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://twitter.com/intent/user?screen_name=lc0d3r", icon: "twitter"}
  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 blocks:
  -
-  title: "Links"
-  links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+  # title: "Links"
+  # links:
+  #  - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+  #  - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:sergii.khomenko@stylight.com", text: "sergii.khomenko@stylight.com"}
  -
   title: "FAQ"
   links:

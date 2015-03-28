@@ -1,12 +1,12 @@
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "Munich Wearable Data Hack 2015"
+email: "info@wearabledatahack.com"
+description: "The Wearable Data Hack Munich 2015 is the first hack day on wearable tech applications and data."
 enablePreloader: false
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+twitterAccount: "@wearabledatahack"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"

@@ -19,5 +19,5 @@ url: "http://wearabledata.github.io"
 permalink: '/blog/:title'
 
 # i18n
-languages: ["en", "uk"]
+languages: ["en"]
 exclude_from_localizations: ["js", "img", "css"]

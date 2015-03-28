@@ -11,7 +11,8 @@ module.exports = function(grunt) {
             source: 'app',
             dist: 'dist',
             baseurl: '',
-            git_repo: 'git@github.com:wearabledata/wearabledata.github.io.git'
+            git_repo: 'git@github.com:wearabledata/wearabledata.github.io.git',
+            branch: 'master'
         },
         watch: {
             sass: {
@@ -297,7 +298,7 @@ module.exports = function(grunt) {
                 options: {
                     dir: '<%= app.dist %>/<%= app.baseurl %>',
                     remote: '<%= app.git_repo %>',
-                    branch: 'gh-pages',
+                    branch: '<%= app.branch %>',
                     commit: true,
                     push: true,
                     connectCommits: false
