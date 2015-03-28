@@ -1,4 +1,52 @@
 -
+  id: 901
+  title: "Reception / Networking"
+  place: "Atrium"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 902
+  title: "Introduction & Presentations"
+  place: "Atrium"
+  service: true
+  description: "Intriduction of Munich Wearable Data Hack 2015"
+-
+  id: 905
+  title: "Breakfast / Coffee"
+  place: "Atrium"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 906
+  title: "Introduction / Team matching"
+  place: "Atrium"
+  service: true
+  description: "Barcamp style, everyone introduces themselves with three tags<br>Team leaders who have not yet found their complete teams can pitch the idea and find team members"
+-
+  id: 9061
+  title: "Finalization of presentations"
+  place: "Atrium"
+  service: true
+  description: "Finalization of presentations, final registration for teams to pitch"
+-
+  id: 907
+  title: "Demo presentations"
+  place: "Atrium"
+  service: true
+  description: "Jury session"
+-
+  id: 908
+  title: "Jury session"
+  place: "Atrium"
+  service: true
+  # description: "Jury session"
+-
+  id: 909
+  title: "Awarding Ceremony"
+  place: "Atrium"
+  service: true
+  description: "Awarding Ceremony / Celebration"
+-
   id: 307
   title: "Coffee Break"
   place: "Hall"
@@ -7,6 +55,11 @@
 -
   id: 503
   title: "Lunch Break"
+  place: "Dining room"
+  service: true
+-
+  id: 504
+  title: "Dinner Break"
   place: "Dining room"
   service: true
 -
@@ -25,7 +78,7 @@
   subtype: presentation
   speakers: [4, 5]
   language: en
-  complexity: "Intermediate" 
+  complexity: "Intermediate"
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -35,7 +88,7 @@
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Intermediate" 
+  complexity: "Intermediate"
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004

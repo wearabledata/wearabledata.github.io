@@ -1,10 +1,19 @@
-- 
-  group: "Main organizer"
-  elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-- 
-  group: "Co-organizers"
-  elements: 
-    - {name: "GDG Kyiv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+-
+  group: "Organizers"
+  elements:
+    - name: "STYLIGHT"
+      description: "is the best place to discover and shop fashion from the best stores. Whenever. Wherever. Whether that’s searching for a specific item or just part of your daily fashion discovery – STYLIGHT hand-picks the hottest trends from the best online stores and boutiques daily, and combines them with the looks of international fashion bloggers. Millions of people worldwide use STYLIGHT’s website and apps every month to discover and shop the latest fashion trends."
+      link: "http://stylight.com"
+      imageUrl: "stylight.png"
+      width: "200px"
+    - name: "DATARELLA "
+      description: "DATARELLA is the mobile data technology company. The Munich-based startup taps into smartphones and wearable devices to harvest the data. Datarella supports data-driven analytics and product development for connected cars, smart home, mhealth, and retail."
+      link: "http://datarella.com/"
+      imageUrl: "Datarella.png"
+      width: "200px"
+# -
+#   group: "Co-organizers"
+#   elements:
+#     - {name: "GDG Kyiv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
+#     - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
+#     - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
