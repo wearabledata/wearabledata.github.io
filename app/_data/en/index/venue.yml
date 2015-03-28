@@ -1,7 +1,7 @@
 title: "Venue"
-bigImage: "venue_0.jpg"
-smallImage1: "venue_1.jpg"
-smallImage2: "venue_2.jpg"
-smallImage3: "venue_3.jpg"
+bigImage: "stylight_2.jpg"
+smallImage1: "stylight_0.jpg"
+smallImage2: "stylight_1.jpg"
+# smallImage3: "venue_3.jpg"
 venueTitle: "Stylight’s lofty office"
-venueFeatures: ["Huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["Huge cinema screens",  "Located directly in the city center"]
