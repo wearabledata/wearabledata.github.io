@@ -33,3 +33,5 @@ We expect participants to follow these rules at event and workshop venues and ev
 Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & The Ada Initiative
 Please help by translating or improving: [http://github.com/leftlogic/confcodeofconduct.com](http://github.com/leftlogic/confcodeofconduct.com)
 This work is licensed under a Creative Commons Attribution 3.0 Unported License
+
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">

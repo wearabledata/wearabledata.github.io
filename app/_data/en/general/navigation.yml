@@ -3,7 +3,7 @@ links:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/#venue", text: "Venue"}
  - {permalink: "/#partners", text: "Partners"}
- - {permalink: "/blog/", text: "Blog"}
+ # - {permalink: "/blog/", text: "Blog"}
  # - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/team/", text: "Team"}
  # - {permalink: "/logistics/", text: "Logistics"}

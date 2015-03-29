@@ -7,21 +7,21 @@ enablePreloader: false
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
 twitterAccount: "@wearabledatahack"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+# socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+# socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+# socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "Wearable Data Hack Munich"
+organizerAlternateName: "Wearable Data Hack Munich"
+organizerDescription: "The Wearable Data Hack Munich 2015 is the first hack day on wearable tech applications and data."
+organizerEmail: "info@wearabledatahack.com"
+# organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://wearabledata.github.io/"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4pButton: "Become a speaker"
+c4pUrl: "http://goo.gl/forms/Q2ryG41kcc"
+c4pButton: "Attend a hackathon"
 
 # Varibles
 googleAnalyticsTrackingId: "UA-61294516-1"
