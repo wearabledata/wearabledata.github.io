@@ -1,4 +1,5 @@
 title: "Partners"
 organizersTitle: "Organizers"
 c4sponsorsButton: "Become a sponsor"
-c4sponsorsUrl: "/files/GDG_DevFest_Partnership.pdf"
+# c4sponsorsUrl: "/files/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "mailto:sergii.khomenko@stylight.com?subject=Wearable Data Hackathon:Become a sponsor"
