@@ -1,6 +1,8 @@
 links:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/#venue", text: "Venue"}
+ - {permalink: "/#partners", text: "Partners"}
  - {permalink: "/blog/", text: "Blog"}
  # - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/team/", text: "Team"}
